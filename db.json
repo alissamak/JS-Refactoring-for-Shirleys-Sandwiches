@@ -3,13 +3,24 @@
     {
       "id": 1,
       "name": "Avery's Sandwich",
-      "bread": "Sourdough",
+      "bread": "Wheat",
       "ingredients": [
         "Cheddar Cheese",
         "Mayo",
-        "Ham",
-        "Bacon",
         "Lettuce",
+        "Tomatoes",
+        "Turkey",
+        "Ham"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Unnamed yfgu",
+      "bread": "Sourdough",
+      "ingredients": [
+        "Ham",
+        "Turkey",
+        "Bacon",
         "Tomatoes"
       ]
     }
